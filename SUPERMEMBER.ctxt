@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=k\ d
+comment0.target=double\ calDiscount(double,\ double)
+comment1.params=
+comment1.target=SUPERMEMBER()
+comment2.params=id\ name\ phoneNumber
+comment2.target=SUPERMEMBER(int,\ java.lang.String,\ int)
+comment3.params=
+comment3.target=int\ getId()
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment5.params=
+comment5.target=int\ getPhone()
+comment6.params=newId\ newName\ newPhone
+comment6.target=void\ setDate(int,\ java.lang.String,\ int)
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment8.params=
+comment8.target=java.lang.String\ NakTunjuk()
+numComments=9

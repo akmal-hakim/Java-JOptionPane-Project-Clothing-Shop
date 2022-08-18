@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CUSTOMERSDETAILS()
+comment1.params=n\ c\ p\ b\ t
+comment1.target=CUSTOMERSDETAILS(java.lang.String,\ int,\ int,\ int,\ java.lang.String)
+comment10.params=
+comment10.target=int\ getBuyQuantity()
+comment11.params=
+comment11.target=java.lang.String\ getTypePayment()
+comment2.params=NewCustomerID
+comment2.target=void\ setCustomerID(int)
+comment3.params=NewCustomerName
+comment3.target=void\ setCustomerName(java.lang.String)
+comment4.params=NewCustomerPhon
+comment4.target=void\ setCustomerPhon(int)
+comment5.params=NewBuyQuantity
+comment5.target=void\ setBuyQuantity(int)
+comment6.params=NewTypePayment
+comment6.target=void\ setTypePayment(java.lang.String)
+comment7.params=
+comment7.target=int\ getCustomerID()
+comment8.params=
+comment8.target=java.lang.String\ getCustomerName()
+comment9.params=
+comment9.target=int\ getCustomerPhon()
+numComments=12

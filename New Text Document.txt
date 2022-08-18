@@ -1,0 +1,22 @@
+ double nakkira = 0.0;
+                for(int zz=0; zz<realquantity; zz++)
+                {
+                    System.out.print("\nENTER CODE :");
+                    int codebuy = scanner.nextInt();
+                    System.out.print("\nENTER QUANTITY :");    
+                    int quantitytobuy = scanner.nextInt();
+                    for ( int kira=0; kira<w; kira++)
+                    {
+                        if(stock[kira].getClothCode()==codebuy)
+                        {
+                            nakkira = nakkira + stock[kira].getPrice();                           
+                        }
+
+                        if(stock[kira].getClothCode()==codebuy )
+                        {
+                            receipt = new Receipt(customername,codebuy,stock[kira].getClothType(),stock[kira].getBrands(),stock[kira].getPrice(),quantitytobuy,nakkira); 
+                        }
+
+                    }
+
+                }

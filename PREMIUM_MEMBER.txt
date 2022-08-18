@@ -1,0 +1,3 @@
+Maimunah;0113563275;1234567896;ShirtShop;G;Kuala Lumpur;
+Maznah Harun;018574988;1234567897;JeansShop;G;Megamall;
+Mahathir Ahmad;0194525234;1234567898;PantsShop;G;LondonStreet;

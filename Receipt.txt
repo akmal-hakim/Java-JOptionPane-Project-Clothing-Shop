@@ -1,0 +1,8 @@
+              TOTAL RECEIPT                  
+=============================================
+Customer Name : Munirah
+Payment Type : C
+Accumulated Price (Excluded Gov Tax) : RM950.0
+Goverment Tax :57.0
+Discount Price: .00
+=============================================
